@@ -13,6 +13,6 @@ describe Fibonacci do
   end
 
   it "generates the sequence for 10 seconds and returns places count" do
-    @fib.nth_element.must_include "Computed to"
+    @fib.nth_element.must_include "Computed"
   end
 end

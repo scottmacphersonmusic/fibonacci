@@ -13,7 +13,7 @@ class Fibonacci
       until Time.now > end_time
         f << f[-1] + f[-2]
       end
-      return "Computed to #{f.length} places in 10 seconds."
+      return "Computed #{f.length} places in 10 seconds."
     end
   end
 end
