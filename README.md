@@ -16,7 +16,7 @@ To calculate the value of the *n*th element of the Fibonacci sequence pass `nth_
 
 To see how many places the algorithm can calculate the sequence to in 10 seconds don't pass in any arguments:
 
-`fib.nth_element` => Computed 244755 places in 10 seconds.
+`fib.nth_element` => Computed 267098 places in 10 seconds.
 
 (*you will need to wait 10 seconds*)
 
