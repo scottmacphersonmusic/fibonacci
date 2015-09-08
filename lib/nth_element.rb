@@ -13,3 +13,7 @@ class Fibonacci
     end
   end
 end
+
+fib = Fibonacci.new
+
+fib.nth_element
